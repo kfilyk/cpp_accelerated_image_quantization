@@ -1,0 +1,8 @@
+bin/
+tmp_cmake/
+README.md
+.DS_Store
+*.pnm
+.vscode
+.vscode/settings.json
+images/
