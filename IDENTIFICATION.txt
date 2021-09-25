@@ -1,7 +1,0 @@
-name "Kelvin Filyk"
-student_id "V00810568"
-email "kfilyk@uvic.ca"
-term "2021-05"
-course "SENG475"
-section "T01"
-assignment "cpp_project"
