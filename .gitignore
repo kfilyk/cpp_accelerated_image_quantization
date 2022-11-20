@@ -1,5 +1,4 @@
-bin/
-tmp_cmake/
+build/
 .DS_Store
 *.pnm
 .vscode
