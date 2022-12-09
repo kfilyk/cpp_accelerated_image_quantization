@@ -1,4 +1,5 @@
-https://www.youtube.com/watch?v=0si2kZQkLsc&ab_channel=KelvinFilyk
+[![C++ Final Presentation - Accelerated K-Means Clustering Using Multi-Threaded Colour Histogram]((https://www.youtube.com/watch?v=0si2kZQkLsc&ab_channel=KelvinFilyk))]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=0si2kZQkLsc&ab_channel=KelvinFilyk))
+
 
 This project performs high speed variable-K-means quantization on an input image. It is the culmination of my learnings in advanced C++ coursework.
 
