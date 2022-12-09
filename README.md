@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=0si2kZQkLsc&ab_channel=KelvinFilyk
+
 This project performs high speed variable-K-means quantization on an input image. It is the culmination of my learnings in advanced C++ coursework.
 
 Multi-Threaded K-Means Quantization Using Histogram of Unique Pixel Values
